@@ -5,7 +5,7 @@ This project analyzes how market sentiment (Fear/Greed) relates to trader behavi
 ## Contents
 - trader_sentiment_analysis.ipynb: Main analysis notebook
 - summary.md: Short write-up of methodology, insights, and strategy recommendations
-- 
+
 ## Datasets
 - Bitcoin Market Sentiment (Fear/Greed Index): Historical sentiment data used to classify market conditions.
 - Hyperliquid Trader Data: Historical trade-level data including executions, positions, and PnL for analyzing trader behavior and performance.
